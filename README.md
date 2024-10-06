@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Fusion-Resources
+# Artificial-Intelligence-Fusion-Optimization-Resources
 
 ## Journal
 
