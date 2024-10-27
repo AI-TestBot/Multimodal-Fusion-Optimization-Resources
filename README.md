@@ -241,50 +241,6 @@ NIPS, 2021.
 *J Gu, X Meng, G Lu, L Hou, M Niu, H Xu, et al.*<br>
 ArXiv, 2022.
 
-## Applications
-
-### Understanding
-
-#### Image
-
-**Deep Collaborative Embedding for Social Image Understanding.**<br>
-*Z Li, J Tang, T Mei.*<br>
-TPAMI, 2019. 
-[[PDF](https://ieeexplore.ieee.org/document/8403294)]
-
-**Layoutlm: Pre-training of text and layout for document image understanding.**<br>
-*Y Xu, M Li, L Cui, S Huang, F Wei, M Zhou.*<br>
-KDD, 2020. 
-
-**Beyond visual semantics: Exploring the role of scene text in image understanding.**<br>
-*AU Dey, SK Ghosh, E Valveny, G Harit.*<br>
-Pattern Recognition Letters, 2021. 
-
-#### Video 
-
-**Eco Efficient convolutional network for online video understanding.**<br>
-*M Zolfaghari, K Singh, T Brox.*<br>
-ECCV, 2018. 
-[[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mohammadreza_Zolfaghari_ECO_Efficient_Convolutional_ECCV_2018_paper.pdf)]
-
-**TSM Temporal Shift Module for Efficient Video Understanding.**<br>
-*J Lin, C Gan, S Han.*<br>
-CVPR, 2019. 
-[[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.pdf)]
-
-**Assemblenet: Searching for multi-stream neural connectivity in video architectures.**<br>
-*MS Ryoo, AJ Piergiovanni, M Tan, et al.*<br>
-ICLR, 2020. 
-
-**Is Space-Time Attention All You Need for Video Understanding?**<br>
-*G Bertasius, H Wang, et al.*<br>
-ArXiv, 2021. 
-
-**MDMMT Multidomain Multimodal Transformer for Video Retrieval.**<br>
-*M Dzabraev, M Kalashnikov, et al.*<br>
-CVPR, 2021. 
-[[PDF](https://openaccess.thecvf.com/content/CVPR2021W/HVU/papers/Dzabraev_MDMMT_Multidomain_Multimodal_Transformer_for_Video_Retrieval_CVPRW_2021_paper.pdf)]
-
 # Artificial-Intelligence-Alignment-Resources
 
 ## Review
@@ -403,8 +359,43 @@ arXiv:2405.01481, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.01481)]
 [[Github](https://github.com/NVIDIA/NeMo-Aligner)]
 
-
 # AI-Applications-Integration-Resources
+
+## AI Agent
+
+### VLM
+
+**Agent ai: Surveying the horizons of multimodal interaction.**<br>
+*Z Durante, Q Huang, N Wake, R Gong, JS Park, et al.*<br>
+ArXiv, 2024.
+[[Papaer](https://arxiv.org/pdf/2401.03568)]
+
+**Large multimodal agents: A survey.**<br>
+*J Xie, Z Chen, R Zhang, X Wan, G Li.*<br>
+arXiv:2402.15116, 2024.
+[[Papaer](https://arxiv.org/pdf/2402.15116)]
+
+**Mobile-agent: Autonomous multi-modal mobile device agent with visual perception.**<br>
+*J Wang, H Xu, J Ye, M Yan, W Shen, J Zhang, et al.*<br>
+arXiv, 2024.
+[[Papaer](https://arxiv.org/pdf/2401.16158)]
+
+### LLM
+
+**A Survey on Large Language Model based Autonomous Agents.**<br>
+*L Wang, C Ma, X Feng, Z Zhang, H Yang, J Zhang, Z Chen, J Tang, X Chen, Y Lin, WX Zhao, et al.*<br>
+Frontiers of Computer Science, 2024.
+[[Homepage](https://link.springer.com/article/10.1007/s11704-024-40231-1)]
+
+**The rise and potential of large language model based agents: A survey.**<br>
+*Z Xi, W Chen, X Guo, W He, Y Ding, B Hong, M Zhang, J Wang, S Jin, E Zhou, R Zheng, et al.*<br>
+arXiv:2309.07864, 2023.
+[[Paper](https://arxiv.org/pdf/2309.07864)]
+
+**Toolllm: Facilitating large language models to master 16000+ real-world apis.**<br>
+*Y Qin, S Liang, Y Ye, K Zhu, L Yan, Y Lu, Y Lin, X Cong, X Tang, B Qian, S Zhao, R Tian, et al.*<br>
+arXiv:2307.16789, 2023.
+[[Paper](https://arxiv.org/pdf/2307.16789)]
 
 ## AI +
 
@@ -458,20 +449,3 @@ Journal of Chemical Information and Modeling, 2023.
 *H Zhou, C Hu, Y Yuan, Y Cui, Y Jin, C Chen, H Wu, D Yuan, L Jiang, D Wu, X Liu, C Zhang, et al.*<br>
 arXiv:2405.10825, 2024.
 [[Paper](https://arxiv.org/pdf/2405.10825)]
-
-## AI Agent
-
-**A Survey on Large Language Model based Autonomous Agents.**<br>
-*L Wang, C Ma, X Feng, Z Zhang, H Yang, J Zhang, Z Chen, J Tang, X Chen, Y Lin, WX Zhao, et al.*<br>
-Frontiers of Computer Science, 2024.
-[[Homepage](https://link.springer.com/article/10.1007/s11704-024-40231-1)]
-
-**The rise and potential of large language model based agents: A survey.**<br>
-*Z Xi, W Chen, X Guo, W He, Y Ding, B Hong, M Zhang, J Wang, S Jin, E Zhou, R Zheng, et al.*<br>
-arXiv:2309.07864, 2023.
-[[Paper](https://arxiv.org/pdf/2309.07864)]
-
-**Toolllm: Facilitating large language models to master 16000+ real-world apis.**<br>
-*Y Qin, S Liang, Y Ye, K Zhu, L Yan, Y Lu, Y Lin, X Cong, X Tang, B Qian, S Zhao, R Tian, et al.*<br>
-arXiv:2307.16789, 2023.
-[[Paper](https://arxiv.org/pdf/2307.16789)]
